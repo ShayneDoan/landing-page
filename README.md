@@ -1,2 +1,2 @@
 # landing-page
-[Odin] a landing page created using flexbox layout 
+[Odin] A landing page created using flexbox layout 
