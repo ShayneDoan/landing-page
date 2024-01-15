@@ -128,11 +128,24 @@ button {
 .quote {
     display: flex;
     flex-direction: column;
+    flex-shrink: 0;
     background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 450px;
+    padding-right: 450px;
 }
 
 .quote-text {
     display: flex;
     font-size: 36px;
     color: #1F2937;
+}
+
+.quote-author {
+    display: flex;
+    font-weight: bold;
+    align-self: flex-end;
 }
